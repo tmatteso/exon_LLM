@@ -42,4 +42,4 @@ This script will create a “.pt” file for each eval_frame, complete with name
 
 `graphs.py`
 
-This script will parse the logits based on the observed ALT variants, and make graphs describing model perfomrance
+This script will parse the logits based on the observed ALT variants, and make graphs describing model performance
