@@ -10,7 +10,7 @@ Collect the clinvar and cosmic benchmarks from GPN-MSA
 https://huggingface.co/datasets/songlab/clinvar
 https://huggingface.co/datasets/songlab/cosmic
 
-## Get bed coords from encode exons
+## Get bed coords from GENCODE exons
 
 `ENCODE_frames.py`
 
