@@ -16,7 +16,7 @@ https://huggingface.co/datasets/songlab/cosmic
 
 ## Sample frames based on these coords from the WGA
 
-`polished_maf.py`
+`gencode_maf.py`
 
 You will need to construct the mafindices before you query frames at scale. Single threaded mode exists for debugging, but multithreaded mode is recommended for actual use. Depending on your hardware, it should take a couple minutes to get all the frames from a chromosome. There are intermediate print statements in the code currently, but these are for debugging purposes.
 
