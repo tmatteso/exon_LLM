@@ -1,6 +1,6 @@
 # exon_LLM
 
-## Download the encode exon csv and the 30-way whole genome alignment
+## Download the GENCODE exon csv and the 30-way whole genome alignment
 
 `wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_41/gencode.v41.annotation.gtf.gz`
 
